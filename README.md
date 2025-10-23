@@ -25,7 +25,7 @@ Este projeto foi construído utilizando apenas as tecnologias fundamentais da we
 
 ## 🚀 Como Jogar
 
-1.  **Abra o Jogo:** A forma mais fácil é [clicar aqui para jogar](https://anavecchia.github.io/jogodavelha/)
+1.  **Abra o Jogo:**
 2.  **Comece a Jogar:** O jogador "X" sempre começa.
 3.  **Clique:** Clique em um quadrado vazio para fazer sua jogada.
 4.  **Passe a Vez:** O jogo automaticamente passará a vez para o jogador "O".
